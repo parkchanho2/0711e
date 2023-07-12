@@ -43,7 +43,7 @@ public class StreamTest05 {
 		System.out.println(tt);
 		
 		int tt2 = 0;
-		for(int i:numList) { // 향상딘 for문 or each문
+		for(int i:numList) { // 향상된 for문 or each문
 			tt2 += i;
 		}
 		System.out.println(tt2);
